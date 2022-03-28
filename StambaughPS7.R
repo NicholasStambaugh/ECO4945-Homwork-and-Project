@@ -31,14 +31,4 @@ summary(model2)
 model2
 
 
-#10 No idea how to calculate this. 
-
-#I was unaware where to find the resources to be able to complete this the way I wanted too; 
-#I gave up trying to fix my code because I can't find any resources for how to do these questions: 
-  
-#3&4 (dummy term with 'and' statement? Maybe I'm misunderstanding the question)
-#5 (how to drop negative experience? No idea how to do this)
-#6 (running regression with independent variable having '>=, <='? no idea the syntax to set variable with those and have it still work) 
-#10(need a refresher on how to calculate regression results. Seems familiar but sick of digging through blackboard to find resources)
-
 
